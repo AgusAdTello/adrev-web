@@ -14,6 +14,7 @@ export const brandConfig = {
   navLinks: [
     { href: "/", label: "Inicio" },
     { href: "/desarrollo-web", label: "Desarrollo Web", badge: "AGENCIA" },
+    { href: "/casos-exito", label: "Casos Reales", badge: "PORTFOLIO" },
     { href: "/cotizador-web", label: "Cotizador Web" },
     { href: "/pos-escritorio", label: "POS Escritorio", badge: "OFFLINE" },
     { href: "/pos-online", label: "POS Cloud Web", badge: "ONLINE" },
